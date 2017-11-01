@@ -1,0 +1,8 @@
+li a {
+    color: darkturquoise;
+
+}
+body{
+    background: url(bg.png) no-repeat;
+    background-size: cover;
+}
